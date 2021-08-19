@@ -6,9 +6,9 @@ while (kaneDhoreUthBosh <= 10) {
 }
 
 
-var msgToJan = 0;
+// var msgToJan = 0;
 
-while (msgToJan <= 50) {
-    console.log('I love you honey, I wont do it anymore!!');
-    msgToJan++
-}
+// while (msgToJan <= 50) {
+//     console.log('I love you honey, I wont do it anymore!!');
+//     msgToJan++
+// }
